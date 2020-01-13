@@ -1,18 +1,134 @@
-[
-  {
-    "id": 1,
-    "title": "2 (8-oz) pkgs cream cheese, softened"
-  },
-  {
-    "id": 2,
-    "title": "1¼ cup caramel sauce,"
-  },
-  {
-    "id": 3,
-    "title": "1 (6-oz) graham cracker pie crust."
-  },
-  {
-    "id": 4,
-    "title": "1½ cups toasted pecan halves"
-  }
-]
+{
+  "square": [
+    {
+      "id": 1,
+      "title": "Hijab Casual",
+      "subjudul":"Hijab Lyfe",
+      "gambar":"https://cdn.suqma.com/media/product/905/m/SUQMA_Ravenna_Snow_White_Hijab_Navy_0031.jpg",
+      "kategori":"square",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    },
+    {
+      "id": 2,
+      "title": "hijab segi empat menutup dada",
+      "subjudul":"Shireen Sungkar",
+      "gambar":"https://awsimages.detik.net.id/community/media/visual/2019/01/28/55a3a272-c75c-4b42-8baf-cdad43907c15_169.jpeg?w=620",
+      "kategori":"square",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    }
+  ],
+  "pashmina": [
+    {
+      "id": 1,
+      "title": "Polos untuk Lebaran",
+      "subjudul":"Hijup",
+      "gambar":"https://cdn.popbela.com/content-images/post/20180531/30855435-956458461177816-4238136426178281472-n-2-7f8c1548c637f2b324806a0c4a669530_750x500.jpg",
+      "kategori":"pashmina",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Pashmina Jepit",
+      "subjudul":"Rachel Venya",
+      "gambar":"https://cdn.popmama.com/content-images/post/20190806/ps1-2b739b363435645e643289765dc92083.jpg",
+      "kategori":"pashmina",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    }
+  ],
+  "turban": [
+    {
+      "id": 1,
+      "title": "Turban yang Elegan",
+      "subjudul":"Hijup",
+      "gambar":"https://cdn0-production-images-kly.akamaized.net/pclz5nxKRoyGm5MJVMqbDjC-DeI=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2827921/original/061616200_1560430642-Tutorial_Hijab_Turban_yang_Elegan__Hijup_.JPG",
+      "kategori":"turban",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Simple Turban",
+      "subjudul":"Rima",
+      "gambar":"https://cdn.mall.sayidaty.net/image/cache/Product/172438/2019_01_24_01_32/1548336735251618-540x600.jpg",
+      "kategori":"turban",
+      "bahan":[
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+        ],
+      "step":[
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+        ]
+    }
+  ]
+}

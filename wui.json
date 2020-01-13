@@ -1,55 +1,64 @@
 {
-  "square": [
+  "Dessert": [
     {
       "id": 1,
-      "title": "Hijab Casual",
-      "subjudul":"Hijab Lyfe",
-      "gambar":"https://cdn.suqma.com/media/product/905/m/SUQMA_Ravenna_Snow_White_Hijab_Navy_0031.jpg",
-      "kategori":"square",
+      "title": "Martabak Mini",
+      "subjudul":"Subjudul",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130656-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
+      "kategori":"Dessert",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- 350 gram tepung terigu.",
+        "- 2 sdm susu bubuk atau susu kental manis.",
+        "- 1/4 sdt garam.",
+        "- 80-100 gr gula pasir/halus.",
+        "- 1/4 sdt vanili.",
+        "- 1/4 sdt baking powder.",
+        "- 3/4 sdt baking soda.",
+        "- 1 butir telur.",
+        "- 1 kuning telur.",
+        "- 30 gr margarin.",
+        "- 1/4 sdt ragi bubuk."
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Pertama masukan tepung, baking powder, gula, garam, vanili, dan susu bubuk ke dalam wadah.",
+        "2. Tambahkan air sedikit demi sedikit, sembari terus di aduk. Jangan terlalu banyak dan jangan terlalu sedikit.",
+        "3. Tambahkan ragi, lalu diamkan selama 30 menit sampai satu jam.",
+        "4. Setelah didiamkan, tambahkan telur sambil terus diaduk, tambahkan baking soda dan margarin leleh.",
+        "5. Setelah semua tercampur, panaskan loyang, jangan dioles mentega.",
+        "6. Masukkan adonan ke loyang, ketika adonan dimasukan jika berbunyi 'cesss' berarti panas nya sudah cukup dan segera kecilkan api agar tidak gosong bawahnya.",
+        "7. Setelah matang angkat dan oles mentega/susu cair.",
+        "8. Letakkan topping sesuai selera."
         ]
     },
     {
       "id": 2,
-      "title": "hijab segi empat menutup dada",
-      "subjudul":"Shireen Sungkar",
-      "gambar":"https://awsimages.detik.net.id/community/media/visual/2019/01/28/55a3a272-c75c-4b42-8baf-cdad43907c15_169.jpeg?w=620",
-      "kategori":"square",
+      "title": "Cheese Cake Oreo",
+      "subjudul":"subjudul",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130668-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
+      "kategori":"Dessert",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- 1 bungkus oreo cream putih, pisahkan biskuit dgn creamnya. Biskuitnya haluskan.",
+        "- Keju parut 80 gram. Bagi dengan perbandingan, 40 gram untuk cream, 40 gram utk topping.",
+        "- 27 gram susu bubuk.
+        "- 1,5 sdm maizena, larutkan dgn sedikit air.",
+        "- 200 ml air.",
+        "- Creamer vanilla 80 gram."
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Satukan air, susu bubuk, creamer, panaskan dengan api sedang.",
+        "2. Kalau udah mendidih masukkan keju dan cream oreo, kemudian masukkan larutan maizena, aduk sampai mendidih & meletup, sisihkan.",
+        "3. Oreo yang udah dihaluskan ditata dalam wadah secara selang seling dengan cream.",
+        "4. Terakhir taburkan keju dan masukkan ke dalam kulkas."
         ]
     }
   ],
-  "pashmina": [
+  "Daily": [
     {
       "id": 1,
       "title": "Polos untuk Lebaran",
       "subjudul":"Hijup",
       "gambar":"https://cdn.popbela.com/content-images/post/20180531/30855435-956458461177816-4238136426178281472-n-2-7f8c1548c637f2b324806a0c4a669530_750x500.jpg",
-      "kategori":"pashmina",
+      "kategori":"Daily",
       "bahan":[
         "-",
         "-",
@@ -70,7 +79,7 @@
       "title": "Pashmina Jepit",
       "subjudul":"Rachel Venya",
       "gambar":"https://cdn.popmama.com/content-images/post/20190806/ps1-2b739b363435645e643289765dc92083.jpg",
-      "kategori":"pashmina",
+      "kategori":"Daily",
       "bahan":[
         "-",
         "-",
@@ -87,13 +96,13 @@
         ]
     }
   ],
-  "turban": [
+  "Vegetables": [
     {
       "id": 1,
       "title": "Turban yang Elegan",
       "subjudul":"Hijup",
       "gambar":"https://cdn0-production-images-kly.akamaized.net/pclz5nxKRoyGm5MJVMqbDjC-DeI=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2827921/original/061616200_1560430642-Tutorial_Hijab_Turban_yang_Elegan__Hijup_.JPG",
-      "kategori":"turban",
+      "kategori":"Vegetables",
       "bahan":[
         "-",
         "-",

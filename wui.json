@@ -120,44 +120,48 @@
   "Vegetables": [
     {
       "id": 1,
-      "title": "Turban yang Elegan",
-      "subjudul":"Hijup",
-      "gambar":"https://cdn0-production-images-kly.akamaized.net/pclz5nxKRoyGm5MJVMqbDjC-DeI=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2827921/original/061616200_1560430642-Tutorial_Hijab_Turban_yang_Elegan__Hijup_.JPG",
+      "title": "Stik buncis.",
+      "subjudul":" Subjudul",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154847-12-resep-camilan-dari-sayuran.jpg",
       "kategori":"Vegetables",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- Buncis segar secukupnya",
+        "- 1 gelas tepung terigu",
+        "- 1 sdm maizena",
+        "- 1 sdm penyedap rasa",
+        "- 1 sdm garam",
+        "- Sejumput lada bubuk",
+        "- Sejumput baking soda",
+        "- Air secukupnya"
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Campur tepung dan semua bumbu aduk pakai sendok tanpa diberi air.",
+        "2. Untuk bahan celupan, ambil campuran tepung terigu ±3 sdm lalu beri sedikit air, aduk sampai kental.",
+        "3. Cuci bersih buncis, lalu celupkan ke adonan basah.",
+        "4. Kemudian gulingkan ke adonan tepung kering, tekan-tekan.",
+        "5. Buncis siap digoreng pada minyak panas hingga tampak berubah warna keemasan. Angkat.",
+        "6. Tunggu dingin, sajikan selagi hangat"
         ]
     },
     {
       "id": 2,
-      "title": "Simple Turban",
-      "subjudul":"Rima",
-      "gambar":"https://cdn.mall.sayidaty.net/image/cache/Product/172438/2019_01_24_01_32/1548336735251618-540x600.jpg",
-      "kategori":"turban",
+      "title": "Jamur crispy.",
+      "subjudul":"subjudul",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154853-1000xauto-12-resep-camilan-dari-sayuran.jpg",
+      "kategori":"Vegetables",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- 100 gr tepung terigu serbaguna",
+        "- 1 sdm tepung sagu",
+        "- 1 sdt bwg putih bubuk",
+        "- 1 sdt kaldu bubuk",
+        "- 1 sdt garam",
+        "- 1/4 sdt merica bubuk"
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Ambil sebagian tepung pelapis lalu berikan air secukupnya, aduk rata hingga menjadi adonan tepung basah.",
+        "2. Celup jamur tiramnya ke adonan tepung basah, setelah itu balur jamurnya ke tepung pelapis kering sambil sesekali diremas-remas.",
+        "3. Setelah itu goreng jamur tiramnya dengan minyak panas hingga matang kering kecoklatan.",
+        "4. Jamur crispy siap disantap."
         ]
     }
   ]

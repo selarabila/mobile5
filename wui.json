@@ -7,17 +7,17 @@
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130656-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
       "kategori":"Dessert",
       "bahan":[
-        "- 350 gram tepung terigu.",
-        "- 2 sdm susu bubuk atau susu kental manis.",
-        "- 1/4 sdt garam.",
-        "- 80-100 gr gula pasir/halus.",
-        "- 1/4 sdt vanili.",
-        "- 1/4 sdt baking powder.",
-        "- 3/4 sdt baking soda.",
-        "- 1 butir telur.",
-        "- 1 kuning telur.",
-        "- 30 gr margarin.",
-        "- 1/4 sdt ragi bubuk."
+        "- 350 gram tepung terigu",
+        "- 2 sdm susu bubuk atau susu kental manis",
+        "- 1/4 sdt garam",
+        "- 80-100 gr gula pasir/halus",
+        "- 1/4 sdt vanili",
+        "- 1/4 sdt baking powder",
+        "- 3/4 sdt baking soda",
+        "- 1 butir telur",
+        "- 1 kuning telur",
+        "- 30 gr margarin",
+        "- 1/4 sdt ragi bubuk"
         ],
       "step":[
         "1. Pertama masukan tepung, baking powder, gula, garam, vanili, dan susu bubuk ke dalam wadah.",
@@ -37,12 +37,12 @@
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130668-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
       "kategori":"Dessert",
       "bahan":[
-        "- 1 bungkus oreo cream putih, pisahkan biskuit dgn creamnya. Biskuitnya haluskan.",
-        "- Keju parut 80 gram. Bagi dengan perbandingan, 40 gram untuk cream, 40 gram utk topping.",
-        "- 27 gram susu bubuk.
-        "- 1,5 sdm maizena, larutkan dgn sedikit air.",
-        "- 200 ml air.",
-        "- Creamer vanilla 80 gram."
+        "- 1 bungkus oreo cream putih, pisahkan biskuit dgn creamnya. Biskuitnya haluskan",
+        "- Keju parut 80 gram. Bagi dengan perbandingan, 40 gram untuk cream, 40 gram utk topping",
+        "- 27 gram susu bubuk",
+        "- 1,5 sdm maizena, larutkan dgn sedikit air",
+        "- 200 ml air",
+        "- Creamer vanilla 80 gram"
         ],
       "step":[
         "1. Satukan air, susu bubuk, creamer, panaskan dengan api sedang.",
@@ -55,44 +55,65 @@
   "Daily": [
     {
       "id": 1,
-      "title": "Polos untuk Lebaran",
+      "title": "Sup Buntut.",
       "subjudul":"Hijup",
-      "gambar":"https://cdn.popbela.com/content-images/post/20180531/30855435-956458461177816-4238136426178281472-n-2-7f8c1548c637f2b324806a0c4a669530_750x500.jpg",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/06/176679/1153019-13-resep-makanan-berkuah.jpga669530_750x500.jpg",
       "kategori":"Daily",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- 1 buntut sapi",
+        "- 3 buah wortel potong sesuai selera",
+        "- Air untuk merebus secukupnya",
+        "- 5 cengih",
+        "- 3 cm kayu manis",
+        "- 1/2 pala",
+        "- Air secukupnya untuk merebus",
+        "- Gula garam",
+        "- 2 bunga lawang",
+        "- 3 siung bawang putih, geprek cincang",
+        "- 1/2 bawang bombai cincang",
+        "- 1 sdt lada"
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Bakar buntut yang sudah dicuci bersih di pan, bolak balik sampai berubah warna.",
+        "2. Masukkan buntut yang sudah dibakar ke dalam presto yang berisi air, masukkan bunga lawang, kayumanis, cengkih, pala, garam, lada.",
+        "3. Presto 45 menit.",
+        "4. Tumis bawang putih dan bawang bombai, sampai harum, masukkan wortel, aduk-aduk.",
+        "5. Masukkan tomat, matikan api masukkan ke dalam panci berisi buntut.",
+        "6. Masak gara dan gula, cicipi. Angkat dan sajikan dgn taburan bawang goreng serta daun bawang."
         ]
     },
     {
       "id": 2,
-      "title": "Pashmina Jepit",
-      "subjudul":"Rachel Venya",
-      "gambar":"https://cdn.popmama.com/content-images/post/20190806/ps1-2b739b363435645e643289765dc92083.jpg",
+      "title": "Tongseng ayam",
+      "subjudul":"subjudul",
+      "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/06/176679/1153029-1000xauto-13-resep-makanan-berkuah.jpg",
       "kategori":"Daily",
       "bahan":[
-        "-",
-        "-",
-        "-",
-        "-",
-        "-"
+        "- 500 gr daging ayam potong sesuai selera",
+        "- Kol secukupnya",
+        "- 8 buah cabai rawit",
+        "- 1 buah tomat, potong-potong",
+        "- 1 batang daun bawang, potong-potong",
+        "- 1 batang sersi, geprek",
+        "- 2 lembar daun salam",
+        "- 3 lembar daun jeruk",
+        "- 2 sdm kecap manis",
+        "- Gula pasir dan garam secukupnya",
+        "- Kaldu bubuk secukupnya",
+        "- 500 ml air kaldu",
+        "- 8 buah bawang merah",
+        "- 4 siung bawang putih",
+        "- 3 buah cabai merah besar",
+        "- 3 buah cabai rawit merah",
+        "- 1/2 ruas jahe"
         ],
       "step":[
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "1. Didihkan air masukan daging ayam, rebus sebentar saja, angkat ayam, ambil air rebusan ayam.",
+        "2. Tumis bumbu halus, daun jeruk, serai, daun salam hingga harum lalu masukkan daging aduk rata.",
+        "3. Lalu masukkan air kaldu tambah kecap, gula, garam, kaldu bubuk masak dengan api kecil hingga bumbu meresap",
+        "4. Kemudian masukkan daun kol, cabai rawit, dan tomat masak hingga layu. Koreksi rasa.",
+        "5. Terakhir masukan potongan daun bawang aduk rata",
+        "6. Setelah kuah menyusut matikan api, angkat."
         ]
     }
   ],

@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Martabak Mini",
-      "subjudul":"Subjudul",
+      "subjudul":"Ibu Mila",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130656-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
       "kategori":"Dessert",
       "bahan":[
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "title": "Cheese Cake Oreo",
-      "subjudul":"subjudul",
+      "subjudul":"Chef Marinka",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130668-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
       "kategori":"Dessert",
       "bahan":[
@@ -43,8 +43,8 @@
     {
       "id": 1,
       "title": "Sup Buntut.",
-      "subjudul":"Hijup",
-      "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/06/176679/1153019-13-resep-makanan-berkuah.jpga669530_750x500.jpg",
+      "subjudul":"Ibu Mega",
+      "gambar":"https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/sop-buntut-50406367.jpg",
       "kategori":"Daily",
       "bahan":[
         "- 1 buntut sapi",
@@ -62,7 +62,7 @@
     {
       "id": 2,
       "title": "Tongseng ayam",
-      "subjudul":"subjudul",
+      "subjudul":"Chef Renata",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/06/176679/1153029-1000xauto-13-resep-makanan-berkuah.jpg",
       "kategori":"Daily",
       "bahan":[
@@ -83,7 +83,7 @@
     {
       "id": 1,
       "title": "Stik buncis.",
-      "subjudul":" Subjudul",
+      "subjudul":" Juna",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154847-12-resep-camilan-dari-sayuran.jpg",
       "kategori":"Vegetables",
       "bahan":[
@@ -102,7 +102,7 @@
     {
       "id": 2,
       "title": "Jamur crispy.",
-      "subjudul":"subjudul",
+      "subjudul":"Chef Arnold",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154853-1000xauto-12-resep-camilan-dari-sayuran.jpg",
       "kategori":"Vegetables",
       "bahan":[
